@@ -1,0 +1,6 @@
+todo/list练习
+一：状态存放在父组件 app.jsx里;
+二：表单元素(type为checkbox) 默认值可以使用defaultChecked  可以修改；若直接使用checked无法修改状态;
+三：字传父
+    子组件通过this.props.函数传参给父组件相关数据，父组件通过props接收函数;
+四：状态在哪里，操作状态的方法就在哪里
